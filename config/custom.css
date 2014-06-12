@@ -39,6 +39,7 @@ border: 2px;
 /*Chat*/
 .chat-log {
      font-size: 10pt;
+     font-color: #00000;
      background: url("http://i.imgur.com/hF1TyBh.jpg") repeat;
      opacity: 1;
      border-left: 1px solid rgb(95, 200, 255);
